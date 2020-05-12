@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<config>
+	<className>behavioral.visitor.Customer</className>
+</config>
+
+<!-- 桥接模式 -->
+<!-- <config> -->
+<!-- 	<className>structural.Bridge.SmallPen</className> -->
+<!-- 	<className>structural.Bridge.Blue</className> -->
+<!-- </config> -->
+
+
+<!-- 建造者模式 -->
+<!-- <config> -->
+<!-- 	<className>creational.builder.SubMealBuilderA</className> -->
+<!-- </config> -->
+<!-- <config> -->
+<!-- 	<className>creational.builder.SubMealBuilderB</className> -->
+<!-- </config> -->
+
+<!-- 工厂模式 -->
+<!-- <config> -->
+<!-- 	<className>creational.factory.BFactory</className> -->
+<!-- </config> -->
